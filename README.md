@@ -1,4 +1,4 @@
-# Sardi Flat Colora Variations
+# Sardi Ghost Flexible Variations
 
 Sardi consists of 6 major icon themes and 10 different kind of folders.
 
